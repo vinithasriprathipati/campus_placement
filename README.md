@@ -12,12 +12,12 @@ Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 👥 Case Types & Personas
 ### 🗂️ Case Types
-👤 Student Account Creation
-📝 Job Posting & Candidate Filtering
+- Student Account Creation
+- Job Posting & Candidate Filtering
 
 ### 👩‍💼 Personas
-👨‍🎓 Student – Register, upload resume, apply for jobs, and track status
-🧑‍💼 Placement Officer – Post jobs, filter candidates, schedule interviews
+- Student – Register, upload resume, apply for jobs, and track status
+- Placement Officer – Post jobs, filter candidates, schedule interviews
 
 ## 💡 Key Features
 ✔️ Student registration and resume upload
@@ -27,10 +27,10 @@ Includes HLD documentation, portal designs, class structure, and screenshots.
 ✔️ Reports on students applied and placed
 
 ## 🛠️ Tools & Technologies
-Pega Constellation
-Pega SOR (System of Record)
-Web Portals for students and officers
-Email Integration, forms, validations, and repeat grids
+- Pega Constellation
+- Pega SOR (System of Record)
+- Web Portals for students and officers
+- Email Integration, forms, validations, and repeat grids
 
 ## 🏛️ Application Structure
 Organization: Aditya Institutions
