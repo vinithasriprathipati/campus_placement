@@ -2,7 +2,7 @@
 A Pega Constellation-based application automating the campus recruitment process, providing seamless workflows for student registrations, job postings, eligibility filtering, and interview scheduling.
 
 ## 🎬 Application Demo Video
-📽️ [**Watch Campus Placement Walkthrough**](https://github.com/vinithasriprathipati/<repo-name>/raw/main/Campus%20Placement%20Application.mov)
+📽️ [**Watch Campus Placement Walkthrough**](https://github.com/vinithasriprathipati/campus_placement/blob/99766a3ef08b7a50490e2273f310f977c92cff24/Campus%20Placement%20Application.mov)
 A quick demo showcasing key features like account creation, job posting, student filtering, and placement reports.
 
 ## 📂 Project Files
