@@ -2,12 +2,11 @@
 A Pega Constellation-based application automating the campus recruitment process, providing seamless workflows for student registrations, job postings, eligibility filtering, and interview scheduling.
 
 ## 🎬 Application Demo Video
-📽️ Watch Campus Placement Walkthrough
+📽️ [**Watch Campus Placement Walkthrough**](https://drive.google.com/file/d/1zwlLtbjLPApo_0IeGlEfcRuU56cUMvyZ/view?usp=sharing)
 A quick demo showcasing key features like account creation, job posting, student filtering, and placement reports.
-(Replace the link above with your actual video link)
 
 ## 📂 Project Files
-📦 Download Project Files (.zip)
+📦 [**Download Project Files (.zip)**](https://github.com/vinithasriprathipati/paris-2024-olympics-dashboard/raw/main/Paris%20Olympics%20Dataset.zip)  
 Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 👥 Case Types & Personas
