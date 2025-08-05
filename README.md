@@ -11,11 +11,11 @@ A quick demo showcasing key features like account creation, job posting, student
 Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 👥 Case Types & Personas
-# 🗂️ Case Types
+### 🗂️ Case Types
 👤 Student Account Creation
 📝 Job Posting & Candidate Filtering
 
-# 👩‍💼 Personas
+### 👩‍💼 Personas
 👨‍🎓 Student – Register, upload resume, apply for jobs, and track status
 🧑‍💼 Placement Officer – Post jobs, filter candidates, schedule interviews
 
