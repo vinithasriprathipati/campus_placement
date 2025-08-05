@@ -6,7 +6,7 @@ A Pega Constellation-based application automating the campus recruitment process
 A quick demo showcasing key features like account creation, job posting, student filtering, and placement reports.
 
 ## 📂 Project Files
-📦 [**Download Project Files (.zip)**](HLD_Campusplacement.pdf) 
+📦 [**Download Project Files (.zip)**](https://github.com/vinithasriprathipati/campus_placement/blob/458aadb8d9d173a4d478963bfcf08dd2a3ef6540/HLD_Campusplacement.pdf) 
 Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 👥 Case Types & Personas
