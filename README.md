@@ -10,7 +10,7 @@ A quick demo showcasing key features like account creation, job posting, student
 Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 🧾 High-Level Design (HLD) Document
-📘 [**View HLD – Campus Placement Application**](HLD_Campusplacement.pdff)
+📘 [**View HLD – Campus Placement Application**](https://github.com/vinithasriprathipati/campus_placement/blob/9ebb5dff07576d10003d05ebd499d86fb0bab6eb/HLD_Campusplacement.pdf)
 
 ## 👥 Case Types & Personas
 ### 🗂️ Case Types
